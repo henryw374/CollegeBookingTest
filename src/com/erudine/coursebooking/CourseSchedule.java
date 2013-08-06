@@ -11,7 +11,9 @@ public class CourseSchedule {
 	private int courseCapacity;
 
 	// the following commented out fields are just there to give more of an idea
-	// about what a course schedule is.
+	// about what a course schedule is in the real world. For this
+	// exercise, there is no need uncomment them and include them
+	// in your answer
 	//private Date startDate;
 	//private Date endDate;
 	//private String teacher;
